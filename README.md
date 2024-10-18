@@ -13,4 +13,4 @@ I'm Muhammad Ismail, a 25 years old web developer from Pakistan.
 + a lot more :D
 
 ## Contact
-- [@ismail](https://www.linkedin.com/in/m-ismail-18j1999/) on LinkedIn
+- [@muhammadismail](https://www.linkedin.com/in/m-ismail-18j1999/) on LinkedIn
